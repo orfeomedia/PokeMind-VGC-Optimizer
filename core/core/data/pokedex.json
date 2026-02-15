@@ -1,0 +1,14 @@
+{
+  "Incineroar": {
+    "types": ["Fire", "Dark"],
+    "bs": {"HP": 95, "Atk": 115, "Def": 90, "SpA": 80, "SpD": 90, "Spe": 60}
+  },
+  "Flutter Mane": {
+    "types": ["Ghost", "Fairy"],
+    "bs": {"HP": 55, "Atk": 55, "Def": 55, "SpA": 135, "SpD": 135, "Spe": 135}
+  },
+  "Urshifu-Rapid-Strike": {
+    "types": ["Water", "Fighting"],
+    "bs": {"HP": 100, "Atk": 130, "Def": 100, "SpA": 63, "SpD": 60, "Spe": 97}
+  }
+}
